@@ -1,0 +1,18 @@
+(dp0
+S'upsell'
+p1
+S'Would you consider making this a monthly donation?'
+p2
+sS'busy'
+p3
+S'Sorry, can we do this later this week or next week?'
+p4
+sS'agree'
+p5
+S'Yes, I agree. That sounds fine to me.'
+p6
+sS'disbelief'
+p7
+S'I cannot believe this.'
+p8
+s.
